@@ -1,0 +1,12 @@
+---
+pies:
+  hosts:
+    baconnegg:
+      ansible_host: baconneggpi.local
+    mincencheese:
+      ansible_host: mincencheesepi.local
+    steakncheese:
+      ansible_host: steakncheesepi.local
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
+    remote_user: agb

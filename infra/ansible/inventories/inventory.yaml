@@ -1,0 +1,14 @@
+---
+all:
+  children:
+    pies:
+      hosts:
+        baconnegg: {}
+        mincencheese: {}
+        steakncheese: {}
+    monitoring_server:
+      hosts:
+        baconnegg: {}
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
+    remote_user: agb
