@@ -1,6 +1,6 @@
-# The Batcave
+# Batcave
 
-**The fancy name for my homelab.**
+**A fancy name for my homelab.**
 
 ![image of a batcave](batcave.webp)
 
