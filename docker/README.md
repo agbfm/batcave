@@ -64,15 +64,15 @@ Currently used for OIDC SSO with services, but will possibly swap with Authelia.
 
 #### Infisical
 
-#### Mattermost
-
-#### Mautic
-
 #### n8n
 
 #### Outline
 
+#### Plex
+
 #### RocketChat
+
+#### Scrutiny
 
 ## Roadmap
 
